@@ -14,7 +14,9 @@ The restoration of GLL’s face involved several advanced image reconstruction t
 - **NVIDIA StyleGAN2:** Though explored, results were not as satisfactory.
 - **GIMP & CV2 Manipulation:** Enabled manual refinements and precision adjustments.
 - **GFPGAN Algorithm:** Applied for enhanced facial restoration and detail refinement.
-- **Generative image creators were used for the full body images, inspired in 1945 when the event took place.
+- **Generative image creators:** were used for the full body images, inspired in 1945 when the event took place.
+- **Google colab:** Python was used to manipulate the images and do the face replacement.
+- **AI code helpers:** Were used to code, it too, via prompting.
 
 Each step was executed with a commitment to authenticity, ensuring that the reconstructed image is as close as possible to its historical truth.
 
