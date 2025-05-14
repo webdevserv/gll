@@ -31,12 +31,12 @@ Observation: The prominence of her brow and cheekbones could indeed suggest maln
 ## Sample Results
 Here is a sample of three reconstructed images obtained during the process:
 
-![Image1](./recosntructions/bat.png)
-![Image2](./recosntructions/bat_portrait.png)
-![Image1](./recosntructions/bi.png)
-![Image2](./recosntructions/bi_portrait.png)
-![Image1](./recosntructions/hiru.png)
-![Image2](./recosntructions/hiru_portrait.png)
+![Image1](./reconstructions/bat.png)
+![Image2](./reconsructions/bat_portrait.png)
+![Image1](./reconstructions/bi.png)
+![Image2](./reconstructions/bi_portrait.png)
+![Image1](./reconstructions/hiru.png)
+![Image2](./reconstructions/hiru_portrait.png)
 
 These images serve as a testament to the technological and artistic efforts that have gone into reimagining history.
 
