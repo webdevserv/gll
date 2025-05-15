@@ -1,4 +1,5 @@
 # German Lost Lady (GLL) WWII
+Victory in Europe Day (VE Day) 8th May 1945, german troops and civilians flee Pilsen, Czechoslovakia
 ![Image1](./screenshot.png)
 
 ## Overview
