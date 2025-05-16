@@ -31,7 +31,7 @@ This repository preserves not only an image but a narrative—one that must not 
 Observation: The prominence of her brow and cheekbones could indeed suggest malnutrition during the filan stages of WWII. In image hiru.png(three) she is not malnutritioned and it is included for contrasting purposes.
 ---
 
-## Ribbon
+## Dark Ribbon
 In the film, you can observe that when she is walking, there is a bulge in her pocket. In contrast, when she is half-smiling while sitting on the curb, her hair appears tidier, and she has a ribbon in her hair.
 ---
 
@@ -57,6 +57,9 @@ Some videos can be found in the videos folder.
 For inquiries, discussions, or further exploration of this project, feel free to reach out via Instagram:
 
 - [@artgen101](https://www.instagram.com/artgen101)
+
+## Watermark Repository
+The code for adding the watermark and the guilloché pattern is accessible at [Watermark Repository](https://github.com/webdevserv/watermark).
 
 ---
 ## Credit
