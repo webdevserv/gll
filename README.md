@@ -38,6 +38,7 @@ In the film, you can observe that when she is walking, there is a bulge in her p
 ## Sample Results
 Here is a sample of two reconstructed images obtained during the process:
 
+<img src="./reconstructions/soldierorcivilian.png" width="512">
 <img src="./reconstructions/bat.png" width="512">
 <img src="./reconstructions/bat_portrait.png" width="512">
 <img src="./reconstructions/bi.png" width="512">
