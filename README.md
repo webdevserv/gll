@@ -41,7 +41,7 @@ Here is a sample of two reconstructed images obtained during the process:
 
 These images serve as a testament to the technological and artistic efforts that have gone into reimagining history.
 
-Note: the discrepancy of the eyes and some face features are left intentionally, I did not intend to do a realistic photographic reconstructions but I wanted to some of the AI tools available to bring her face to the light. 
+Note: the discrepancy of the eyes and some face features are left intentionally, I did not intend to do a realistic photographic reconstructions but I wanted to some of the AI tools available to bring her face to the light. Moreover, the fact that the eye color and other features differ emphasizes that this is a conjectural reconstruction.
 ---
 
 ## Videos
