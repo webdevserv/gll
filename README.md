@@ -7,6 +7,10 @@ This project embarks on a profound reconstruction journey—an attempt to piece 
 
 The tragedy of violence and war manifests in countless ways, and while Picasso’s *Guernica* has become an emblem of war horrors, GLL should stand as a solemn testament to the fight against violence inflicted upon women DAILY. The wounds she bore—likely the remnants of unspeakable brutality—mirror the silent agony endured by countless women throughout history, their suffering often overlooked in our society.
 
+## No to violence
+AI Digital Memorial to Lost Voices in Dark Water
+[Streamlit Artistic memorial](https://fqzx5uyfbd6bxp4lj7psdc.streamlit.app/)
+ 
 ## Reconstruction Process
 The restoration of GLL’s face involved several advanced image reconstruction techniques, including:
 
