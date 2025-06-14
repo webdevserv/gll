@@ -9,7 +9,7 @@ The tragedy of violence and war manifests in countless ways, and while Picassoâ€
 
 ## No to violence
 AI Digital Memorial to Lost Voices in Dark Water
-[Streamlit Artistic memorial](https://fqzx5uyfbd6bxp4lj7psdc.streamlit.app/)
+[Streamlit Artistic memorial](https://fqzx5uyfbd6bxp4lj7psdc.streamlit.app/) inspired by Natalie Wood and the German lost lady (gll).
  
 ## Reconstruction Process
 The restoration of GLLâ€™s face involved several advanced image reconstruction techniques, including:
